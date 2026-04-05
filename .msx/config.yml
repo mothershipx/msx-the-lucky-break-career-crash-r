@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: The 'Lucky Break' Career Crash Recovery
+slug: the-lucky-break-career-crash-r
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: the-lucky-break-career-crash-r.msx.dev
